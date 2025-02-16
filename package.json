@@ -1,0 +1,2 @@
+npx create-react-app guess-number-game
+cd guess-number-game
